@@ -1,4 +1,4 @@
-# ColumbiaX-CSMM.102x-
+# ColumbiaX-CSMM.102x
 
 ## Course Outline
 
