@@ -17,3 +17,8 @@ Lecture 2: We move to our first supervised learning problem of linear regression
 Lecture 3: We continue our discussion of least squares by thinking probabilistically about the problem, making connections to maximum likelihood. This will motivate the ridge regression approach to linear regression through a technique called regularization. We analyze and compare these two fundamental approaches to linear regression via the SVD.
 
 Lecture 4: We discuss the bias-variance trade-off using least squares and ridge regression as a motivating example. We then introduce Bayes rule and maximum a posteriori (MAP) inference as an alternative to maximum likelihood, making connections to ridge regression.
+
+### Week 3
+Lecture 5: We discuss Bayesian linear regression as a natural development of ridge regression. This leads to a discussion of forming predictive distributions and “active learning” as two features of the fully Bayesian approach.
+
+Lecture 6: We wrap up our focus on regression by considering cases where the dimensionality of the problem is much larger than the number of samples. We first discuss a minimum L2 approach, which is more useful for introducing two key mathematical tools in machine learning: analysis and optimization. We then discuss sparsity-promoting methods for linear regression.
