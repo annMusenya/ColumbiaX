@@ -22,3 +22,8 @@ Lecture 4: We discuss the bias-variance trade-off using least squares and ridge 
 Lecture 5: We discuss Bayesian linear regression as a natural development of ridge regression. This leads to a discussion of forming predictive distributions and “active learning” as two features of the fully Bayesian approach.
 
 Lecture 6: We wrap up our focus on regression by considering cases where the dimensionality of the problem is much larger than the number of samples. We first discuss a minimum L2 approach, which is more useful for introducing two key mathematical tools in machine learning: analysis and optimization. We then discuss sparsity-promoting methods for linear regression.
+
+### Week 4
+Lecture 7: We shift to the supervised learning problem of classification. We cover simple nearest neighbor approaches and discuss what an optimal classifier looks like. This motivates the generic Bayes classification approach, an approximation to the optimal classifier.
+
+Lecture 8: We move to general linear classifiers. We discuss in detail the geometric understanding of the problem, which is crucial to appreciating what a linear classifier tries to do. We discuss the first linear classifier called the Perceptron. While this method has been improved upon, the Perceptron will provide us with our first occasion to discuss iterative algorithms for model learning.
