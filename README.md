@@ -38,4 +38,9 @@ Lecture 11: We return to the geometric view of linear classification and remove 
 
 Lecture 12: We shift to a radically different classification approach to the linear classifiers we have been discussing thus far. Tree classifiers attempt to find partitions of a space by which to classify data separately in each partition. We introduce a statistical technique called the bootstrap to “bag” these trees into a “random forest.”
 
+### Week 7
+Lecture 13: We discuss and analyze boosting, a method for taking any classifier and making it better. This is done by learning sequences of classifiers on various subsets of the data such that their weighted combination makes significantly better predictions than any individual classifier on its own. We prove the training error theorem of boosting, perhaps the most difficult part of the class, but well worth the effort!
+
+Lecture 14: This lecture marks the beginning of the unsupervised learning portion of the course. The first family of algorithms we consider are clustering algorithms. We present and derive the k-means algorithm, the most fundamental clustering algorithm.
+
 
