@@ -43,4 +43,9 @@ Lecture 13: We discuss and analyze boosting, a method for taking any classifier 
 
 Lecture 14: This lecture marks the beginning of the unsupervised learning portion of the course. The first family of algorithms we consider are clustering algorithms. We present and derive the k-means algorithm, the most fundamental clustering algorithm.
 
+### Week 8
+Lecture 15: We discuss the expectation-maximization (EM) algorithm for performing maximum likelihood via an indirect route. The EM algorithm is a remarkable technique that makes many difficult problems much easier. We discuss EM in the context of a missing data problem, but it will reappear in Lectures 16, 19 and 21.
+
+Lecture 16: We compare hard and soft clustering models and cover a modified k-means algorithm. We then focus our discussion on a probabilistic approach to clustering called the Gaussian mixture model, deriving an iterative EM algorithm to learn its parameters.
+
 
