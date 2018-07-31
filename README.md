@@ -52,3 +52,8 @@ Lecture 16: We compare hard and soft clustering models and cover a modified k-me
 Lecture 17: We move to another unsupervised learning problem of factorizing a matrix into the product of two smaller matrices. This is a widely-used technique for collaborative filtering, where we wish to recommend content to users. We motivate the model we discuss, called probabilistic matrix factorization, in the context of movie recommendation.
 
 Lecture 18: We discuss non-negative matrix factorization, which differs from Lecture 17 by restricting all values in the data and model to be greater than zero. This allows for “parts-based learning” from data, of which topic modeling is a prime example. We present the two standard NMF algorithms for this problem.
+
+### Week 10
+Lecture 19: We cover the fundamental matrix factorization technique called principle components analysis (PCA), a very useful dimensionality reduction approach. Extensions covered include probabilistic PCA for image denoising and inpainting, and kernel PCA for nonlinear dimensionality reduction.
+
+Lecture 20: We move to the unsupervised problem of designing and learning sequential models. Our first topic is the Markov model. We discuss two important properties of Markov chains and apply them to the problems of ranking and semi-supervised classification.
