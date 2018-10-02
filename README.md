@@ -68,4 +68,3 @@ Lecture 24: In this final lecture we discuss model selection. We have made many 
 
 ### Final Project
 
-![graph](https://user-images.githubusercontent.com/11560987/37320290-0389eea6-2641-11e8-9778-897bccf23e36.PNG)
