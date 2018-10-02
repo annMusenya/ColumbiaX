@@ -66,9 +66,6 @@ Lecture 23: In the last week we shift gears to two problems that are very differ
 
 Lecture 24: In this final lecture we discuss model selection. We have made many modeling choices throughout this course without knowing exactly which is the best. This lecture discusses two basic techniques for choosing the final complexity of a model.
 
-### Disclaimer
-Solutions are not to be posted on Github
-
 ### Final Project
 
 ![graph](https://user-images.githubusercontent.com/11560987/37320290-0389eea6-2641-11e8-9778-897bccf23e36.PNG)
