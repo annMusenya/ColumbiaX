@@ -58,7 +58,7 @@ Lecture 20: We move to the unsupervised problem of designing and learning sequen
 ### Week 11
 Lecture 21: We broaden the Markov model to the hidden Markov model (HMM). We clarify the important difference between the two and discuss an EM algorithm for learning HMMs. We give a high-level discussion of how HMMs can be used for speech recognition.
 
-Lecture 22: We discuss a final sequential model where all unknowns are continuous valued. We present the Kalman filter for object tracking and put all our Bayesian knowledge to use in deriving the filtering algorithm for real-time learning of this continuous-state linear Gaussian model.
+
 
 
 ### Final Project
