@@ -55,8 +55,6 @@ Lecture 19: We cover the fundamental matrix factorization technique called princ
 
 Lecture 20: We move to the unsupervised problem of designing and learning sequential models. Our first topic is the Markov model. We discuss two important properties of Markov chains and apply them to the problems of ranking and semi-supervised classification.
 
-### Week 11
-Lecture 21: We broaden the Markov model to the hidden Markov model (HMM). We clarify the important difference between the two and discuss an EM algorithm for learning HMMs. We give a high-level discussion of how HMMs can be used for speech recognition.
 
 
 
