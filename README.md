@@ -48,13 +48,6 @@ Lecture 16: We compare hard and soft clustering models and cover a modified k-me
 ### Week 9
 Lecture 17: We move to another unsupervised learning problem of factorizing a matrix into the product of two smaller matrices. This is a widely-used technique for collaborative filtering, where we wish to recommend content to users. We motivate the model we discuss, called probabilistic matrix factorization, in the context of movie recommendation.
 
-Lecture 18: We discuss non-negative matrix factorization, which differs from Lecture 17 by restricting all values in the data and model to be greater than zero. This allows for “parts-based learning” from data, of which topic modeling is a prime example. We present the two standard NMF algorithms for this problem.
-
-### Week 10
 
 
-
-
-
-### Final Project
 
