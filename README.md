@@ -53,8 +53,6 @@ Lecture 18: We discuss non-negative matrix factorization, which differs from Lec
 ### Week 10
 Lecture 19: We cover the fundamental matrix factorization technique called principle components analysis (PCA), a very useful dimensionality reduction approach. Extensions covered include probabilistic PCA for image denoising and inpainting, and kernel PCA for nonlinear dimensionality reduction.
 
-Lecture 20: We move to the unsupervised problem of designing and learning sequential models. Our first topic is the Markov model. We discuss two important properties of Markov chains and apply them to the problems of ranking and semi-supervised classification.
-
 
 
 
