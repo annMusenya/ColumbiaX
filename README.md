@@ -45,8 +45,7 @@ Lecture 14: This lecture marks the beginning of the unsupervised learning portio
 
 Lecture 16: We compare hard and soft clustering models and cover a modified k-means algorithm. We then focus our discussion on a probabilistic approach to clustering called the Gaussian mixture model, deriving an iterative EM algorithm to learn its parameters.
 
-### Week 9
-Lecture 17: We move to another unsupervised learning problem of factorizing a matrix into the product of two smaller matrices. This is a widely-used technique for collaborative filtering, where we wish to recommend content to users. We motivate the model we discuss, called probabilistic matrix factorization, in the context of movie recommendation.
+
 
 
 
