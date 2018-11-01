@@ -43,8 +43,6 @@ Lecture 14: This lecture marks the beginning of the unsupervised learning portio
 
 
 
-Lecture 16: We compare hard and soft clustering models and cover a modified k-means algorithm. We then focus our discussion on a probabilistic approach to clustering called the Gaussian mixture model, deriving an iterative EM algorithm to learn its parameters.
-
 
 
 
