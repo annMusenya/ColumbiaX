@@ -31,8 +31,8 @@ Lecture 9: We discuss logistic regression, a discriminative linear classificatio
 
 Lecture 10: We make a “trick” we have been using more concrete by discussing feature expansions and their use in kernel methods. After discussing kernels, we look at a specific instance of a powerful nonparametric model that makes use of them for regression (and classification): the Gaussian process.
 
-### Week 6
-Lecture 11: We return to the geometric view of linear classification and remove all probabilistic interpretations of the problem. This 
+
+
 
 
 
