@@ -32,7 +32,7 @@ Lecture 9: We discuss logistic regression, a discriminative linear classificatio
 Lecture 10: We make a “trick” we have been using more concrete by discussing feature expansions and their use in kernel methods. After discussing kernels, we look at a specific instance of a powerful nonparametric model that makes use of them for regression (and classification): the Gaussian process.
 
 ### Week 6
-Lecture 11: We return to the geometric view of linear classification and remove all probabilistic interpretations of the problem. This inspires the maximum margin approach to binary classification. We discuss and analyze an optimization algorithm called the support vector machine (SVM) that achieves this max-margin goal. We show how kernels neatly fit into this model with no extra effort.
+Lecture 11: We return to the geometric view of linear classification and remove all probabilistic interpretations of the problem. This 
 
 
 
