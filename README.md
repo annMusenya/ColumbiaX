@@ -34,8 +34,6 @@ Lecture 10: We make a “trick” we have been using more concrete by discussing
 ### Week 6
 Lecture 11: We return to the geometric view of linear classification and remove all probabilistic interpretations of the problem. This inspires the maximum margin approach to binary classification. We discuss and analyze an optimization algorithm called the support vector machine (SVM) that achieves this max-margin goal. We show how kernels neatly fit into this model with no extra effort.
 
-Lecture 12: We shift to a radically different classification approach to the linear classifiers we have been discussing thus far. Tree 
-
 
 
 
