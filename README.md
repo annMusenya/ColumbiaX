@@ -29,7 +29,7 @@ Lecture 8: We move to general linear classifiers. We discuss in detail the geome
 ### Week 5
 Lecture 9: We discuss logistic regression, a discriminative linear classification model. We compare with the generative Bayes classification model via the log odds function. The likelihood distribution formed by the logistic regression model suggests matching it with a prior; through this example we discuss the general Laplace approximation technique for approximating a posterior distribution.
 
-Lecture 10: We make a “trick” we have been using more concrete by discussing feature expansions and their use in kernel methods. After discussing kernels, we look at a specific instance of a powerful nonparametric model that makes use of them for regression (and classification): the Gaussian process.
+
 
 
 
