@@ -45,3 +45,8 @@ Lecture 14: This lecture marks the beginning of the unsupervised learning portio
 Lecture 15: We discuss the expectation-maximization (EM) algorithm for performing maximum likelihood via an indirect route. The EM algorithm is a remarkable technique that makes many difficult problems much easier. We discuss EM in the context of a missing data problem, but it will reappear in Lectures 16, 19 and 21.
 
 Lecture 16: We compare hard and soft clustering models and cover a modified k-means algorithm. We then focus our discussion on a probabilistic approach to clustering called the Gaussian mixture model, deriving an iterative EM algorithm to learn its parameters.
+
+### Week 9
+Lecture 17: We move to another unsupervised learning problem of factorizing a matrix into the product of two smaller matrices. This is a widely-used technique for collaborative filtering, where we wish to recommend content to users. We motivate the model we discuss, called probabilistic matrix factorization, in the context of movie recommendation.
+
+Lecture 18: We discuss non-negative matrix factorization, which differs from Lecture 17 by restricting all values in the data and model to be greater than zero. This allows for “parts-based learning” from data, of which topic modeling is a prime example. We present the two standard NMF algorithms for this problem.
