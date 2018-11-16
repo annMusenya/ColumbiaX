@@ -55,3 +55,8 @@ Lecture 18: We discuss non-negative matrix factorization, which differs from Lec
 Lecture 19: We cover the fundamental matrix factorization technique called principle components analysis (PCA), a very useful dimensionality reduction approach. Extensions covered include probabilistic PCA for image denoising and inpainting, and kernel PCA for nonlinear dimensionality reduction.
 
 Lecture 20: We move to the unsupervised problem of designing and learning sequential models. Our first topic is the Markov model. We discuss two important properties of Markov chains and apply them to the problems of ranking and semi-supervised classification.
+
+### Week 11
+Lecture 21: We broaden the Markov model to the hidden Markov model (HMM). We clarify the important difference between the two and discuss an EM algorithm for learning HMMs. We give a high-level discussion of how HMMs can be used for speech recognition.
+
+Lecture 22: We discuss a final sequential model where all unknowns are continuous valued. We present the Kalman filter for object tracking and put all our Bayesian knowledge to use in deriving the filtering algorithm for real-time learning of this continuous-state linear Gaussian model.
