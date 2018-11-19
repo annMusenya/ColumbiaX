@@ -60,3 +60,7 @@ Lecture 20: We move to the unsupervised problem of designing and learning sequen
 Lecture 21: We broaden the Markov model to the hidden Markov model (HMM). We clarify the important difference between the two and discuss an EM algorithm for learning HMMs. We give a high-level discussion of how HMMs can be used for speech recognition.
 
 Lecture 22: We discuss a final sequential model where all unknowns are continuous valued. We present the Kalman filter for object tracking and put all our Bayesian knowledge to use in deriving the filtering algorithm for real-time learning of this continuous-state linear Gaussian model.
+
+Week 12
+Lecture 23: In the last week we shift gears to two problems that are very different from what we've previously discussed. In this lecture we cover association analysis, which is the problem of learning interesting highly probable combinations of the form A implies B. The clever and exact algorithm we cover makes this combinatorially “impossible” problem very possible.
+Lecture 24: In this final lecture we discuss model selection. We have made many modeling choices throughout this course without knowing exactly which is the best. This lecture discusses two basic techniques for choosing the final complexity of a model.
