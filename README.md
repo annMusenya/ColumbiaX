@@ -8,7 +8,6 @@ This course provides an introduction to supervised and unsupervised techniques f
 ### Week 1
 Lecture 1: We will discuss the various perspectives of the course and machine learning in general. We will then cover the maximum likelihood problem for learning parameters of a probability distribution.
 
-Lecture 2: We move to our first supervised learning problem of linear regression. We discuss the least squares approach to linear regression and understand the geometric intuitions of the problem.
 
 #### Week 2
 Lecture 3: We continue our discussion of least squares by thinking probabilistically about the problem, making connections to maximum likelihood. This will motivate the ridge regression approach to linear regression through a technique called regularization. We analyze and compare these two fundamental approaches to linear regression via the SVD.
