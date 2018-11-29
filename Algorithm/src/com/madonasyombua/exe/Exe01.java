@@ -3,6 +3,8 @@ package com.madonasyombua.exe;
 /**
  * 
  * @author madona
+ * Chapter 1, my answers.
+ * Algorithms Robert Sedgewick and Kevin Wayne Princeton University
  *
  */
 public class Exe01 {
