@@ -1,6 +1,9 @@
  ### Algorithms Robert Sedgewick and Kevin Wayne Princeton University 
 
-This course provides an introduction to supervised and unsupervised techniques for machine learning. We will cover both probabilistic and non-probabilistic approaches to machine learning. Focus will be on classification and regression models, clustering methods, matrix factorization and sequential models.
+Distinctive features The orientation of the book is to study algorithms likely to be of
+practical use. The book teaches a broad variety of algorithms and data structures and provides
+sufficient information about them that readers can confidently implement, debug, and
+put them to work in any computational environment.
 
 
 
