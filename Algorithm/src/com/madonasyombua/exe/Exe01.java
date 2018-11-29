@@ -1,4 +1,4 @@
-package com.madonasyombua.algorithms;
+package com.madonasyombua.exe;
 
 public class Exe01 {
 
@@ -18,7 +18,7 @@ public class Exe01 {
 		boolean c = true && false || true && true;
 		
 		System.out.printf("The answer is: %d\n", a);
-		System.out.printf("The answer is: %f.2\n", b);
+		System.out.printf("The answer is: %.2f\n", b);
 		System.out.printf("The answer is: %s\n", c);
 	}
 
