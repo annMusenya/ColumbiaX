@@ -1,4 +1,5 @@
 package com.madonasyombua.exe;
+
 /**
  * 
  * @author madona
@@ -9,8 +10,12 @@ public class Exe01 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		boolean [][] array = {{true,true,false},{true,true,false}};
 		getValue();
 		getValueAndType();
+		getBooleanValue(array);
+		
+		
 		
 	}
 	/**
@@ -41,4 +46,29 @@ public class Exe01 {
 		
 		
 	}
+
+	/**
+	 * 1.1.11 Write a code fragment that prints the contents of a two-dimensional boolean
+array, using * to represent true and a space to represent false. Include row and column
+numbers.
+	 */
+	
+	static void getBooleanValue(boolean array[][]) {
+		
+		int n = array.length;
+		int k = array[0].length;
+		
+		for(int i = 0; i< n; i++) {
+			
+			for(int j = 0; j< k;j++) {
+				if(array[i][j]) {
+					System.out.println("*");
+				}
+			}
+			System.out.println(" ");
+		}
+		
+	}
+	
+	
 }
