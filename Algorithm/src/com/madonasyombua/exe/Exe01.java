@@ -10,6 +10,7 @@ public class Exe01 {
 		// TODO Auto-generated method stub
 
 		getValue();
+		getValueAndType();
 		
 	}
 	/**
@@ -25,5 +26,19 @@ public class Exe01 {
 		System.out.printf("The answer is: %.2f\n", b);
 		System.out.printf("The answer is: %s\n", c);
 	}
-
+    /**
+      * 1.1.2 Give the type and value of each of the following expressions:
+      */
+	static void getValueAndType() {
+	
+		double a = (1 + 2.236)/2;
+		double b =  1 + 2 + 3 + 4.0;
+		String d =  1 + 2 + "3";
+		
+		System.out.printf("The answer is: %.2f\n", a);
+		System.out.printf("The answer is: %.2f\n", b);
+		System.out.printf("The answer is: %s\n", d);
+		
+		
+	}
 }
