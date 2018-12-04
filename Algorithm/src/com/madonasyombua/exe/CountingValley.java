@@ -6,10 +6,10 @@ public class CountingValley {
 		// TODO Auto-generated method stub
 
 		String c = "UDDDUDUU";
-		System.out.println(countingVallies(c,8));
+		System.out.println(countingVallies(c));
 	}
 
-	static int countingVallies(String s, int n) {
+	static int countingVallies(String s) {
 		
 		int valley = 0;
 		int level = 0;
